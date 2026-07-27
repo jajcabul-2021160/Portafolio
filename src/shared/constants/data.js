@@ -93,6 +93,6 @@ export const proyectos = [
 
 export const redes = {
   linkedin: "https://www.linkedin.com/in/joaquín-ajcabul-900b7b422",
-  cv: "/CV_Joaquin_Ajcabul.pdf", 
+  cv: "/assets/CV_Joaquin_Ajcabul.pdf", 
   github: "https://github.com/jajcabul-2021160", 
 }
