@@ -57,9 +57,9 @@ export const experiencia = [
 ]
 
 export const galeria = [
-  { nombre: "Agenda web", imagen: "../../../assets/Agenda.png" },
-  { nombre: "AuthService", imagen: "../../../assets/AuthService.jpg" },
-  { nombre: "Página web personal", imagen: "../../../assets/Pagina-Web.png" },
+  { nombre: "Agenda web", imagen: "/assets/Agenda.png" },
+  { nombre: "AuthService", imagen: "/assets/AuthService.jpg" },
+  { nombre: "Página web personal", imagen: "/assets/Pagina-Web.png" },
 ]
 
 export const proyectos = [
@@ -69,7 +69,7 @@ export const proyectos = [
     tecnologias: ["HTML", "Javascript", "CSS"],
     habilidadesAprendidas: "Manejo esencial de tecnologias web, como HTML, CSS y JavaScript. Aprendí a crear una interfaz de usuario simple y funcional para gestionar contactos en una agenda telefónica.",
     repositorio: "https://github.com/jajcabul-2021160/Agenda.git",
-    capturas: ["../../../assets/Agenda.png"],
+    capturas: ["/assets/Agenda.png"],
   },
 
   {
@@ -78,7 +78,7 @@ export const proyectos = [
     tecnologias: ["Node.js", "Express", "MongoDB"],
     habilidadesAprendidas: "Manejo esencial de tecnologias Node.js y Express para crear un sistema de autenticación y autorización de usuarios. Aprendí a implementar rutas protegidas, manejo de tokens JWT y almacenamiento seguro de contraseñas.",
     repositorio: "https://github.com/jajcabul-2021160/AuthService-2021160.git",
-    capturas: ["../../../assets/AuthService.jpg"],
+    capturas: ["/assets/AuthService.jpg"],
   },
 
   {
@@ -87,7 +87,7 @@ export const proyectos = [
     tecnologias: ["HTML", "Javascript", "CSS"],
     habilidadesAprendidas: "Manejo esencial de tecnologias web, como HTML, CSS y JavaScript. Aprendí a crear una interfaz de usuario simple y funcional para mostrar mis intereses y actividades en una página web personal.",
     repositorio: "https://github.com/jajcabul-2021160/Pagina-Web.git",
-    capturas: ["../../../assets/Pagina-Web.png"],
+    capturas: ["/assets/Pagina-Web.png"],
   },
 ]
 
